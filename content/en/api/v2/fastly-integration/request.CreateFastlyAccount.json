@@ -1,0 +1,10 @@
+{
+  "data": {
+    "attributes": {
+      "api_key": "ExampleAddFastlyaccountreturnsTheschemarepresentationofaFastlyaccountresponse",
+      "name": "Example-Add_Fastly_account_returns_The_schema_representation_of_a_Fastly_account_response",
+      "services": []
+    },
+    "type": "fastly-accounts"
+  }
+}
